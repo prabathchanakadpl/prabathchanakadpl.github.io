@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+![Me](/docs/assets/images/me.jpeg)
 
-You can use the [editor on GitHub](https://github.com/prabathchanakadpl/prabathchanakadpl.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Mahesh Perera
+> _Focused and up-to-date_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+👋 I'm Mahesh ([@tmsperera](https://twitter.com/tmsperera/)), a Web Developer from Sri Lanka. 
 
-### Markdown
+Foundation of my development carrier was from the [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/), Sri Lanka.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My professional software development career began in 2016 as a PHP developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
 
-```markdown
-Syntax highlighted code block
+## Highlights
+- Test driven development
+- SOLID Principles
+- Clean code architecture
+- Domain driven design 
+- Event Sourcing pattern
+- Web based SAAS applications
 
-# Header 1
-## Header 2
-### Header 3
+### Languages
+- PHP
+- Javascript
+- HTML
+- MySQL
+- CSS
 
-- Bulleted
-- List
+### Frameworks
+- Laravel
+- Vue.js
+- Nuxt.js
 
-1. Numbered
-2. List
+### Frontend
+- Vue.js
+- Tailwind CSS
+- Inertia.js
+- Laravel Mix
+- Laravel Blade
+- Laravel Livewire
+- Alpine.js
+- Webpack
+- Javascript
+- jQuery
 
-**Bold** and _Italic_ and `Code` text
+### Development Tools
+- Git
+- Composer
+- PHP Unit
+- PHP Stan
+- PHP CS Fixer
+- NPM
+- Webpack
+- Laravel Mix
+- ES Lint
+- Docker
+- Linux
 
-[Link](url) and ![Image](src)
-```
+### Development Platforms
+- GitHub
+- GitLab
+- Bitbucket
+- Trello
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Contributions
+- Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie/)
+- Contributed to [Laravel Scout](https://github.com/laravel/scout/)
 
-### Jekyll Themes
+## Working history
+- Senior Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (since 2021)
+  - Lead developer(Backend + Frontend) of [Leavedates](https://www.leavedates.com/), an online staff leave planner
+    - Backend: Laravel, REST API
+    - Frontend: Vue.js, Tailwind CSS
+  - Lead developer(Backend + Frontend) of [Sellable](https://sellable.app/), an E-commerce marketplace management platform
+    - Backend: Laravel
+    - Frontend: Inertia JS, Vue JS, Tailwind CSS
+- Freelance Developer (2020 - 2021)
+- Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (2018 - 2020)
+  - Full stack developer of [Leavedates](https://www.leavedates.com/), an online staff leave planner
+    - Backend: Laravel, REST API
+    - Frontend: Vue.js, Tailwind CSS
+- Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2016 - 2018)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prabathchanakadpl/prabathchanakadpl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact me 🤙
+- +94 77 17 93 633
+- tmsperera@gmail.com
+- [github.com/tmsperera](https://github.com/tmsperera/)
+- [twitter.com/tmsperera](https://twitter.com/tmsperera/)
+- [linkedin.com/in/tmsperera](https://www.linkedin.com/in/tmsperera/)
