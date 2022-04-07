@@ -1,6 +1,6 @@
 ![Me](/docs/assets/images/me.jpeg)
 
-# Mahesh Perera
+# Prabath Chanaka
 > _Focused and up-to-date_
 
 👋 I'm Prabath ([@prabathchanaka7](https://twitter.com/prabathchanaka7/)), a Web Developer from Sri Lanka. 
