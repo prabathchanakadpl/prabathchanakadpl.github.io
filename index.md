@@ -50,11 +50,11 @@ My professional software development career began in 2016 as a PHP developer. I 
 - Trello
 
 ## Working history
-- Software Developer at [Globe Internet Limited](https://www.onesyntax.com/) (since 2020)
+- Software Developer at [Globe Internet Limited](https://www.globemw.net/) (since 2020)
   platform
     - Backend: Laravel
     - Frontend: JQuery, Vue JS, Tailwind CSS, Bootstrap 4 & 5
-- Freelance Developer (2018 - Present)
+- Freelance Web Developer since 2019 
 - Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2017 FEB - 2020 JULY)
 
 ## Contact me 🤙
