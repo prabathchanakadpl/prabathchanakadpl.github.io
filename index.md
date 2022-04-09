@@ -50,7 +50,7 @@ My professional software development career began in 2016 as a PHP developer. I 
 - Trello
 
 ## Working history
-- Software Developer at [Globe Internet Limited](https://www.globemw.net/) (since 2020)
+- Software Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (since 2020)
   platform
     - Backend: Laravel
     - Frontend: JQuery, Vue JS, Tailwind CSS, Bootstrap 4 & 5
