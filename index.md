@@ -21,12 +21,9 @@ My professional software development career began in 2016 as a PHP developer. I 
 - Vue.js
 
 ### Frontend
-- Vue.js
 - Tailwind CSS
-- Inertia.js
 - Laravel Mix
 - Laravel Blade
-- Laravel Livewire
 - Alpine.js
 - Webpack
 - Javascript
