@@ -18,7 +18,7 @@ My professional software development career began in 2016 as a PHP developer. I 
 
 ### Frameworks
 - Laravel
-- Vue.js
+- Vue.js (Beginner Level)
 
 ### Frontend
 - Tailwind CSS
