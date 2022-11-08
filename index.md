@@ -14,11 +14,11 @@ My professional software development career began in 2016 as a PHP developer. I 
 - Javascript
 - HTML
 - MySQL
+- POSTGRESQL
 - CSS
 
 ### Frameworks
 - Laravel ( 5.2 ^)
-- Vue.js
 
 ### Frontend
 - Tailwind CSS
@@ -48,9 +48,13 @@ My professional software development career began in 2016 as a PHP developer. I 
 - GitLab
 - Bitbucket
 - Trello
+- JIRA
 
 ## Working history
-- Software Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (since 2020)
+- Software Engineer at [Proitzen] (https://www.linkedin.com/company/proitzen/mycompany/) (since 2022 sept)
+   platform
+    - Backend: Laravel, API Development
+- Software Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (from 2020 Feb to 2022 Aug)
   platform
     - Backend: Laravel
     - Frontend: JQuery, Vue JS, Tailwind CSS, Bootstrap 4 & 5
