@@ -52,7 +52,6 @@ My professional software development career began in 2016 as a PHP developer. I 
 
 ## Working history
 - Software Engineer at [Proitzen](https://www.linkedin.com/company/proitzen/mycompany/) (since 2022 sept)
-   platform
     - Backend: Laravel, API Development
 - Software Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (from 2020 Feb to 2022 Aug)
   platform
