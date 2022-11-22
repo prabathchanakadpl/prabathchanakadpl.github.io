@@ -66,4 +66,3 @@ My professional software development career began in 2017 as a Junior PHP Develo
 - [github.com/prabathchanakadpl](https://github.com/prabathchanakadpl/)
 - [gitlab.com/prabathchanakadpl](https://gitlab.com/prabathchanakadpl)
 - [linkedin.com/in/prabath-chanaka](https://www.linkedin.com/in/prabath-chanaka-9a46b0b3/)
-- [devhub.edu.lk (My Teaching Platform)](http://www.devhub.edu.lk)
