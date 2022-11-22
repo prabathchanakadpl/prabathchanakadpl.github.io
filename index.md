@@ -7,7 +7,7 @@
 
 Foundation of my development carrier was from the [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/), Sri Lanka.
 
-My professional software development career began in 2016 as a PHP developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
+My professional software development career began in 2017 as a Junior PHP Developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
 
 ### Languages
 - PHP
@@ -56,9 +56,9 @@ My professional software development career began in 2016 as a PHP developer. I 
 - Software Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (from 2020 Feb to 2022 Aug)
   platform
     - Backend: Laravel
-    - Frontend: JQuery, Vue JS, Tailwind CSS, Bootstrap 4 & 5
-- Freelance Web Developer since 2019 
+    - Frontend: JQuery, Vue JS, Tailwind CSS, Bootstrap 4 & 5 
 - Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2017 FEB - 2020 JULY)
+- Freelance Web Developer since 2017
 
 ## Contact me 🤙
 - +94 71 23 64 953
