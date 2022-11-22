@@ -10,17 +10,21 @@ Foundation of my development carrier was from the [University of Colombo School 
 My professional software development career began in 2017 as a Junior PHP Developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
 
 ### Languages
-- PHP
-- Javascript
 - HTML
+- CSS
+- Javascript
+- PHP
+
+### Databases
 - MySQL
 - POSTGRESQL
-- CSS
+- SQLITE
 
 ### Frameworks
 - Laravel ( 5.2 ^)
 
 ### Frontend
+- Bootstrap 3,4 & 5
 - Tailwind CSS
 - Laravel Mix
 - Laravel Blade
@@ -38,7 +42,7 @@ My professional software development career began in 2017 as a Junior PHP Develo
 - Laravel Mix
 - ES Lint
 - Docker
-- Linux
+- Linux (Ubuntu)
 
 ### Documentation
  - Swagger Open API 
