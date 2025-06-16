@@ -1,6 +1,6 @@
 ![Me](/docs/assets/images/me.jpeg)
 
-# Prabath Chanaka
+# G L D C K Prabath
 > _Focused and up-to-date_
 
 👋 I'm Prabath ([@prabathchanaka7](https://twitter.com/prabathchanaka7/)), a Web Developer from Sri Lanka. 
