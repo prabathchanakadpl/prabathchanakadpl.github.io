@@ -73,6 +73,7 @@ My professional software development career began in 2017 as a Junior PHP Develo
   - Tech Stack
     - Backend: Native PHP, Laravel 5.2 ^
     - Frontend: Laravel Blade Template, Bootstrap, Tailwind CSS, Javascript
+    
 ## Contact me 🤙
 - +94 71 236 4953
 - kasunprabathdpl@gmail.com
