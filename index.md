@@ -65,7 +65,7 @@ My professional software development career began in 2017 as a Junior PHP Develo
 - Full Stack Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (from 2020 Feb to 2022 Aug)
   - Tech Stack
     - Backend: PHP & Laravel
-    - Frontend: Vue JS, Tailwind CSS, Bootstrap 4 & 5 & Javascript
+    - Frontend: Javascript, Vue JS, Tailwind CSS, Bootstrap 4 & 5
     - MYSQL 5.6^
 - Junior Web Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2017 FEB - 2020 JULY)
   - Tech Stack
