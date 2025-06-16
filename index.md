@@ -41,6 +41,7 @@ My professional software development career began in 2017 as a Junior PHP Develo
 - Webpack
 - Laravel Mix
 - ES Lint
+- YAML
 - Docker
 - Linux (Ubuntu)
 
