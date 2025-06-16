@@ -56,16 +56,25 @@ My professional software development career began in 2017 as a Junior PHP Develo
 
 ## Working history
 - Software Engineer at [Proitzen](https://www.linkedin.com/company/proitzen/mycompany/) (since 2022 sept)
-    - Backend: Laravel, API Development
-- Software Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (from 2020 Feb to 2022 Aug)
-  platform
+  - Tech Stack
+    - Backend: Laravel, Rest API Development
+    - API Documentation Using Open API Swagger
+    - Postgrsql
+- Full Stack Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (from 2020 Feb to 2022 Aug)
+  - Tech Stack
     - Backend: Laravel
     - Frontend: JQuery, Vue JS, Tailwind CSS, Bootstrap 4 & 5 
-- Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2017 FEB - 2020 JULY)
+    - MYSQL
+- Junior Web Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2017 FEB - 2020 JULY)
+  - Tech Stack
+    - Backend: Native PHP, Laravel 5.2 ^
+    - Frontend: Laravel Blade Template, Bootstrap, Javascript, JQuery, AJAX
 - Freelance Web Developer since 2017
-
+  - Tech Stack
+    - Backend: Native PHP, Laravel 5.2 ^
+    - Frontend: Laravel Blade Template, Bootstrap, Tailwind CSS, Javascript
 ## Contact me 🤙
-- +94 71 23 64 953
+- +94 71 236 4953
 - kasunprabathdpl@gmail.com
 - [github.com/prabathchanakadpl](https://github.com/prabathchanakadpl/)
 - [gitlab.com/prabathchanakadpl](https://gitlab.com/prabathchanakadpl)
