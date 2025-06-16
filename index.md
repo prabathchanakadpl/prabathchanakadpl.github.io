@@ -9,52 +9,6 @@ Foundation of my development carrier was from the [University of Colombo School 
 
 My professional software development career began in 2017 as a Junior PHP Developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
 
-### Languages
-- HTML
-- CSS
-- Javascript
-- PHP
-
-### Databases
-- MySQL
-- POSTGRESQL
-- SQLITE
-
-### Frameworks
-- Laravel ( 5.2 ^)
-
-### Frontend
-- Bootstrap 3,4 & 5
-- Tailwind CSS
-- Laravel Mix
-- Laravel Blade
-- Alpine.js
-- Webpack
-- Javascript
-- jQuery
-
-### Development Tools
-- Git
-- Composer
-- PHP Unit
-- NPM
-- Webpack
-- Laravel Mix
-- ES Lint
-- YAML
-- Docker
-- Linux (Ubuntu)
-
-### Documentation
- - Swagger Open API 
-
-### Development Platforms
-- GitHub
-- GitLab
-- Bitbucket
-- Trello
-- JIRA
-
 ## Working history
 - Software Engineer at [Proitzen](https://www.linkedin.com/company/proitzen/mycompany/) (since 2022 sept)
   - Here I am working as a Laravel Backend Engineer
@@ -75,6 +29,54 @@ My professional software development career began in 2017 as a Junior PHP Develo
   - Tech Stack
     - Backend: Native PHP, Laravel 5.2^
     - Frontend: Laravel Blade Template, Bootstrap, Tailwind CSS, Javascript
+
+## My Familier Dev & Tech Stack
+  
+  ### Programing Languages
+  - HTML
+  - CSS
+  - Javascript
+  - PHP
+  - JAVA (Not Expert Level)
+  - SQL
+
+  ### Databases
+  - MySQL
+  - POSTGRESQL
+  - SQLITE
+
+  ### Backend Development
+  - Native PHP
+  - Symfany
+  - Laravel ( 5.2 ^)
+  - Spring & Spring Boot ( Not Expert Level)
+
+  ### Frontend Development
+  - Bootstrap 3,4 & 5
+  - Tailwind CSS
+  - Laravel Blade
+  - Alpine.js
+  - Vue Js (Not Expert Level)
+  - Javascript
+  - jQuery
+
+  ### Other Development Tools
+  - Git
+  - Composer
+  - Swagger Open API 
+  - YAML
+  - Docker
+
+  ### Operating Systems
+  - Linux (Ubuntu)
+  - Windows
+
+  ### Development Platforms
+  - GitHub
+  - GitLab
+  - Bitbucket
+  - Trello
+  - JIRA
     
 ## Contact me 🤙
 - +94 71 236 4953
