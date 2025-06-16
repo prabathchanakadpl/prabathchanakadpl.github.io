@@ -7,7 +7,7 @@
 
 Foundation of my development carrier was from the [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/), Sri Lanka.
 
-My professional software development career began in 2017 as a Junior PHP Developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
+My professional software development career began in 2017 as a Junior Web Developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
 
 ## Working history
 - Software Engineer at [Proitzen](https://www.linkedin.com/company/proitzen/mycompany/) (since 2022 sept)
