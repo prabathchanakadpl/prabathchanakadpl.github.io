@@ -57,22 +57,23 @@ My professional software development career began in 2017 as a Junior PHP Develo
 
 ## Working history
 - Software Engineer at [Proitzen](https://www.linkedin.com/company/proitzen/mycompany/) (since 2022 sept)
+  - Here I am working as a Laravel Backend Engineer
   - Tech Stack
-    - Backend: Laravel, Rest API Development
+    - Backend: Laravel, Rest API Development for Web and Mobile Applications
     - API Documentation Using Open API Swagger
     - Postgrsql
 - Full Stack Developer at [Globe Internet Limited](https://www.linkedin.com/company/globe-internet-limited/mycompany/) (from 2020 Feb to 2022 Aug)
   - Tech Stack
-    - Backend: Laravel
-    - Frontend: JQuery, Vue JS, Tailwind CSS, Bootstrap 4 & 5 
-    - MYSQL
+    - Backend: PHP & Laravel
+    - Frontend: Vue JS, Tailwind CSS, Bootstrap 4 & 5 & Javascript
+    - MYSQL 5.6^
 - Junior Web Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2017 FEB - 2020 JULY)
   - Tech Stack
-    - Backend: Native PHP, Laravel 5.2 ^
+    - Backend: Native PHP, Laravel 5.2^
     - Frontend: Laravel Blade Template, Bootstrap, Javascript, JQuery, AJAX
 - Freelance Web Developer since 2017
   - Tech Stack
-    - Backend: Native PHP, Laravel 5.2 ^
+    - Backend: Native PHP, Laravel 5.2^
     - Frontend: Laravel Blade Template, Bootstrap, Tailwind CSS, Javascript
     
 ## Contact me 🤙
